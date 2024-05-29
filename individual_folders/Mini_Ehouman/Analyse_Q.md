@@ -1,54 +1,55 @@
-# Questions Clés
 
-## Quel est l'objectif principal de la proposition ?
-- Identifiant des zones affectées
+# Key Questions
 
-## Quels sont les défis spécifiques liés aux UHI dans les zones ciblées ?
-- Températures élevées affectant la santé publique.
-- Manque d'infrastructures pour atténuer les effets de la chaleur.
-- Conditions de vie précaires aggravant les risques de santé.
+## What is the main objective of the proposal?
+- Identifying affected areas
 
-## Quelles données et méthodologies seront utilisées pour identifier et analyser les zones affectées ?
-- Utilisation de données géospatiales (Google Earth Engine, OpenStreetMap).
-- Données météorologiques (API weather.com, stations locales).
-- Analyse démographique pour identifier les populations vulnérables.
+## What are the specific challenges related to UHIs in the targeted areas?
+- High temperatures affecting public health.
+- Lack of infrastructure to mitigate heat effects.
+- Poor living conditions exacerbating health risks.
 
-## Quelles interventions seront proposées pour atténuer les UHI ?
-- Plantations d'arbres.
-- Installation de toits réfléchissants.
-- Création d'espaces verts.
-- Amélioration des infrastructures de santé (refuges climatisés).
+## What data and methodologies will be used to identify and analyze the affected areas?
+- Use of geospatial data (Google Earth Engine, OpenStreetMap).
+- Meteorological data (weather.com API, local stations).
+- Demographic analysis to identify vulnerable populations.
 
-## Comment les interventions seront-elles mises en œuvre et efficaces ?
-- Plan de mise en œuvre détaillé avec phases de collecte de données, analyse, interventions et suivi.
-- Partenariats avec le gouvernement local, ONG, secteur privé.
-- Utilisation de technologies (drones, logiciels GIS) pour la surveillance et l'évaluation.
+## What interventions will be proposed to mitigate UHIs?
+- Tree plantations.
+- Installation of reflective roofs.
+- Creation of green spaces.
+- Improvement of health infrastructure (air-conditioned shelters).
 
-## Quelles sont les sources de données et de visualisations ?
-- Google Earth Engine, OpenStreetMap pour les données géospatiales.
-- API weather.com, stations locales pour les données météorologiques.
-- Collaboration avec des photographes locaux pour les images avant/après.
+## How will the interventions be implemented and evaluated for effectiveness?
+- Detailed implementation plan with phases of data collection, analysis, interventions, and monitoring.
+- Partnerships with local government, NGOs, private sector.
+- Use of technologies (drones, GIS software) for monitoring and evaluation.
 
-# Mots Clés
-- Îlots de chaleur urbains (UHI)
+## What are the sources of data and visualizations?
+- Google Earth Engine, OpenStreetMap for geospatial data.
+- Weather.com API, local stations for meteorological data.
+- Collaboration with local photographers for before/after images.
+
+# Keywords
+- Urban Heat Islands (UHI)
 - Nairobi
 - Kibera
 - Mathare
-- Données géospatiales
+- Geospatial data
 - Google Earth Engine
 - OpenStreetMap
-- API weather.com
-- Plantations d'arbres
-- Toits réfléchissants
-- Espaces verts
-- Infrastructures de santé
-- Refuges climatisés
-- Cartographie
-- Analyse des risques
-- Données démographiques
-- Sensibilisation et éducation
-- Engagement communautaire
-- Partenariats
-- Plan de mise en œuvre
-- Scalabilité
-- Adaptabilité
+- Weather.com API
+- Tree plantations
+- Reflective roofs
+- Green spaces
+- Health infrastructure
+- Air-conditioned shelters
+- Mapping
+- Risk analysis
+- Demographic data
+- Awareness and education
+- Community engagement
+- Partnerships
+- Implementation plan
+- Scalability
+- Adaptability
